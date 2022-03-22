@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xSenua
+- 👋 Hi, I’m Mpli
 - 👀 I’m interested in 3d art software
 - 🌱 I’m currently learning JS, Python
 - 💞️ I’m looking to collaborate on everything
